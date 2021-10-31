@@ -39,5 +39,5 @@ jobs:
           echo $JAVA_HOME_11_x64
           ls $JAVA_HOME_8_X64/bin
           ls $JAVA_HOME_11_X64/bin
-
+          ls -l /usr/bin/java*
 
